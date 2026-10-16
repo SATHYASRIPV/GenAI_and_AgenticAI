@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+bs4
+beautifulsoup4
+chromadb
+python-dotenv
+colorama
+tqdm
+tiktoken
+nltk
+langchain-ollama
+langchain-huggingface

@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchainhub
+beautifulsoup4
+chromadb
+huggingface_hub
+python-dotenv
+colorama
+tqdm
+tiktoken
+langchain_huggingface
+langchain_ollama
+sentence-transformers
+nltk

@@ -1,0 +1,13 @@
+.env
+venv/
+**/__pycache__/
+.pytest_cache/
+.pypirc 
+
+/test.py
+
+google_search_agent
+sql_agent
+hosting_agent
+others
+python_coder_agent

@@ -1,0 +1,11 @@
+name,region,sales,quarter
+Alice,North,15000,Q1
+Bob,South,12000,Q1
+Charlie,North,18000,Q1
+Diana,East,9000,Q1
+Eve,West,21000,Q1
+Frank,North,16000,Q2
+Grace,South,14000,Q2
+Henry,East,11000,Q2
+Ivy,West,19000,Q2
+Jack,North,17000,Q2
